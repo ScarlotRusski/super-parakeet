@@ -184,7 +184,9 @@ echo:
 echo:
 echo:
 echo:
+echo:       ______________________________________________________________
 echo:
+Echo:        			     Made By Scarlot
 echo:       ______________________________________________________________
 echo:
 echo:                 Activation Methods:
